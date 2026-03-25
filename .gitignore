@@ -1,0 +1,13 @@
+HELP.md
+build/
+!**/src/main/**
+!**/src/test/**
+
+### Gradle ###
+.gradle
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
